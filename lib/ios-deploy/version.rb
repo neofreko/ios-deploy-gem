@@ -1,3 +1,3 @@
 module IosDeploy
-  VERSION = "1.5.0"
+  VERSION = "1.9.0"
 end
